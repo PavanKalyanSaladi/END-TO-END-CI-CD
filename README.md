@@ -4,7 +4,7 @@ Pre-requisites:
 1. AWS Cloud
 2. Nexus
 3. Sonarqube
-4. Jenkins
+4. Jenkins  (Refer to https://www.jenkins.io/doc/book/installing/linux/)
 5. Maven Installation
 
 ---------------------------------------------------------------------------------------------------
